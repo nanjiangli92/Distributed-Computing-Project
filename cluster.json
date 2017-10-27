@@ -1,0 +1,47 @@
+{
+  "nodes": [
+    {"id": "Shantong Chang", "group": 0},
+    {"id": "Patrick Pang", "group": 1},
+	{"id": "Heffernan KJ", "group": 1},
+    {"id": "Karin Verspoor", "group": 2},
+	{"id": "McKay D.", "group": 2},
+    {"id": "Kathleen Gray", "group": 3},
+	{"id": "Asselin J", "group": 3},
+    {"id": "Jenny Waycott", "group": 4},
+	{"id": "Chang S.", "group": 4},
+    {"id": "Wally Smith", "group": 5},
+	{"id": "Pedrana AE", "group": 5},
+    {"id": "Frank Vetere", "group": 6},
+    {"id": "Sean Maynard", "group": 7},
+	{"id": "Garland SM", "group": 7},
+    {"id": "Graeme Shanks", "group": 8},
+	{"id": "Wark JD.", "group": 8}
+    
+  ],
+  "links": [
+    {"source": "Shantong Chang", "target": "Patrick Pang", "value": 1},
+	{"source": "Shantong Chang", "target": "Patrick Pang", "value": 1},
+    {"source": "Shantong Chang", "target": "Karin Verspoor", "value": 1},
+    {"source": "Shantong Chang", "target": "Kathleen Gray", "value": 1},
+    {"source": "Shantong Chang", "target": "Jenny Waycott", "value": 1},
+    {"source": "Shantong Chang", "target": "Wally Smith", "value": 1},
+    {"source": "Shantong Chang", "target": "Frank Vetere", "value": 1},
+    {"source": "Shantong Chang", "target": "Sean Maynard", "value": 1},
+    {"source": "Shantong Chang", "target": "Graeme Shanks", "value": 1},
+	  {"source": "Karin Verspoor", "target": "McKay D.", "value": 1},
+    {"source": "Patrick Pang", "target": "Karin Verspoor", "value": 1},
+	{"source": "Patrick Pang", "target": "Heffernan KJ", "value": 1},
+    {"source": "Kathleen Gray", "target": "Karin Verspoor", "value": 1},
+    {"source": "Kathleen Gray", "target": "Jenny Waycott", "value": 1},
+	{"source": "Kathleen Gray", "target": "Asselin J", "value": 1},
+	  {"source": "Jenny Waycott", "target": "Chang S.", "value": 1},
+    {"source": "Wally Smith", "target": "Frank Vetere", "value": 1},
+	{"source": "Wally Smith", "target": "Pedrana AE", "value": 1},
+    {"source": "Frank Vetere", "target": "Jenny Waycott", "value": 1},
+	  {"source": "Frank Vetere", "target": "Chang S.", "value": 1},
+    {"source": "Sean Maynard", "target": "Graeme Shanks", "value": 1},
+	  {"source": "Sean Maynard", "target": "Garland SM", "value": 1},
+    {"source": "Graeme Shanks", "target": "Frank Vetere", "value": 1},
+	  {"source": "Graeme Shanks", "target": "Wark JD.", "value": 1}
+]
+}
